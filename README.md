@@ -7,7 +7,7 @@ Simple Routing System for PHP
 -Helper methods for listing and displaying all kind of routes and url\
 -Displaying routes by it's name\
 -Namespace support\
--Debug mode\
+-Debug mode
 
 ## Usage
 include Router class and route file
