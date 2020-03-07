@@ -9,7 +9,7 @@ Simple Routing System for PHP
 -Namespace support
 -Debug mode 
 
-##Usage
+## Usage
 include Router class and route file
 ```php
 require_once 'Router.php';
